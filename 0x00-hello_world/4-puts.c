@@ -1,9 +1,6 @@
 #include <stdio.h>
 
-/*
- Retun 0 after printing the function
- *
- * */
+/*Code for print without using printf */
 
 int main(void)
 
