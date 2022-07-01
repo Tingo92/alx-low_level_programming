@@ -1,8 +1,10 @@
 #include <stdio.h>
 
 /**
- *  Code for print without using printf 
- *  */
+ * main - entry point
+ * Return: 0 after printing the function
+ *
+ **/
 
 int main(void)
 
