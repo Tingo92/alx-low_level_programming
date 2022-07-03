@@ -1,8 +1,9 @@
 #include <stdio.h>
 
 /**
- *
  *main - entry point
+ *
+ *main: 'Prints the various types of files'
  *
  *Return: 0 after printing the function
  *
