@@ -4,9 +4,9 @@
 /**
  * main - entry point
  *
- * main: 'Dora Korpar
+ * main: 'Dora Korpar'
  *
- *Return 1 (Success)
+ *Return: Always 1 (Success)
  *
  **/
 int main(void)
