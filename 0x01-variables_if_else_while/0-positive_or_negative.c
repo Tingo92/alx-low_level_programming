@@ -1,17 +1,10 @@
 #include <stdlib.h>
-
 #include <time.h>
-
 #include <stdio.h>
-
 /**
- *
  * main - entry point
- *
- * main: Assigns random numbers and checks if number is positive or negative
- *
- * Return: Always 0 (Success)
- *
+ * Description: prints if a number is positive or negative
+ * Return: 0
  */
 
 int main(void)
