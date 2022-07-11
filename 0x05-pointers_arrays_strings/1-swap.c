@@ -1,4 +1,5 @@
-#include "holberton.h"
+#include "main.h"
+#include "stdio.h"
 
 /**
  * swap_int - swaps the values of a and b
